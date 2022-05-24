@@ -1,2 +1,2 @@
 # starwars-api
-`run node starwars.js`
+run `node starwars.js`
